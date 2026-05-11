@@ -11,7 +11,7 @@ Student engineer · Diamond Bar, CA · [markwu.org](https://markwu.org)
 
 | Project | Description | Stack |
 |---|---|---|
-| [SprocketStats](https://github.com/markwu123454/SprocketStats-2.0) | FRC scouting platform · 95%+ match prediction accuracy · YOLO-based robot detection · deployed at 3 competitions | TS · Python · C# |
+| [SprocketStats](https://github.com/markwu123454/SprocketStats-2.0) | FRC scouting platform · 90% match prediction accuracy · YOLO-based robot detection · deployed at 3 competitions | TS · Python · C# |
 | [Harbinger](https://github.com/markwu123454/Harbinger) + [HarbingerApp](https://github.com/markwu123454/HarbingerApp) | ESP32 coilgun turret · Bluetooth SPP · binary framed protocol · Qt desktop controller | C++ |
 | [strata](https://github.com/markwu123454/strata) | Session-based file sync via Cloudflare R2 · no merge conflicts · no central server | Python |
 
