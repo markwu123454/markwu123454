@@ -25,10 +25,10 @@ Student engineer · Diamond Bar, CA · [markwu.org](https://markwu.org)
 
 ### Recent
 
-- 🏆 District Engineering Inspiration Award (SpaceX sponsored) · 2026
-- 🏆 Regional FIRST Impact Award · Orange County Regional · 2025
-- 🤖 Team 3473 → World Championships 2024 & 2025
-- 🚀 JPL Invention Challenge · top division placement · 2025
+- District Engineering Inspiration Award (SpaceX sponsored) · 2026
+- Regional FIRST Impact Award · Orange County Regional · 2025
+- Team 3473 → World Championships 2024 & 2025
+- JPL Invention Challenge · top division placement · 2025
 
 ---
 
