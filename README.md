@@ -10,7 +10,7 @@ Student engineer · Diamond Bar, CA · [markwu.org](https://markwu.org)
 | Project | Description | Stack |
 |---|---|---|
 | [SprocketStats](https://github.com/markwu123454/SprocketStats-2.0) | FRC scouting platform · match win prediction (Random Forest + K-Means ensemble, ~87%, statistically indistinguishable from Statbotics EPA) · HRNet-based robot pose tracking · deployed at 3 competitions | TS · Python |
-| [Aetherius GCS](https://github.com/markwu123454/Aetherius-GCS-v1) | Custom ground control station for a self-built fixed-wing UAV · MAVLink telemetry over Tauri IPC · SITL-validated param/telemetry/arm/takeoff flow | TS · Rust |
+| [Aetherius GCS](https://github.com/markwu123454/Aetherius-GCS-v3) | Custom ground control station for a self-built fixed-wing UAV · MAVLink telemetry over Tauri IPC · SITL-validated param/telemetry/arm/takeoff flow | TS · Rust |
 | [strata](https://github.com/markwu123454/strata) | Session-based file sync via Cloudflare R2 · no merge conflicts · no central server | Python |
 
 ---
