@@ -5,6 +5,14 @@ Student engineer · Diamond Bar, CA · [markwu.org](https://markwu.org)
 
 ---
 
+### See my projects in action!
+
+> MercedTime: [Chrome WebStore](https://chromewebstore.google.com/detail/hjppipajfmgbkocbjejafmmdommjbnpg?utm_source=github-profile-readme)
+> SprocketStats: [sprocketstats.com](https://www.sprocketstats.com/)
+> Web projects: [Portfolio website](https://www.markwu.org/experiments)
+
+---
+
 ### Featured projects
 
 | Project | Description | Stack |
