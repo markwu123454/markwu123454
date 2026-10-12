@@ -1,7 +1,7 @@
 ## Hi, I'm Mark Wu
 Student engineer · Diamond Bar, CA · [markwu.org](https://markwu.org)
 > I build things that move: robots, drones, and the software systems that power them.
-> Incoming Mechanical Engineering student, UC Merced. Shipped scouting software and hardware projects through FRC since 2024.
+> First year Mechanical Engineering student, UC Merced.
 
 ---
 
